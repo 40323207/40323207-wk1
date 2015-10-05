@@ -1992,7 +1992,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;h2&gt;自評與心得&lt;/h2&gt;
     &lt;p&gt;在上課的時候有試著自己抄做，但因為自己吸收速度太慢，跟不太上老師，只能大概的了解，希望老師可以把電腦輔助再講得比較簡單化點，然後速度再放慢一點。在做作業過程中比較想問的是往下換頁要怎麼做，希望老師能教到。
     &lt;/p&gt;
     &lt;p&gt;自評分數:70
@@ -2027,20 +2027,20 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323207 歐芳汝 10/1&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;做法:&lt;/h1&gt;
+    &lt;h2&gt;做法:&lt;/h2&gt;
     &lt;p&gt;1.下載所需的檔案
           2.下載後把Ana3_lite2打開分別把start launchleo和leo貼回原本的Ana3_2015
           3.開啟start後會有一個視窗在上面打leo，leo就會跳出來
           4.在leo中按File後開啟reveal-master
           5.建立分枝(在github新建資料，在git clone下來)
           6.在leo中更改內容後按save，之再點button pelican contwnt後再按pelican-content
-          7.最後在把它git push上去&lt;/p&gt;
+          7.最後在把它git push上去 &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
